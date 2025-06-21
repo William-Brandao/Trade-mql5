@@ -1,11 +1,11 @@
 # Projeto: Comparativo de Estratégias Quantitativas vs Buy and Hold
 
 
-🧠 Visão Geral
+### 🧠 Visão Geral
 
 Este projeto tem como objetivo desenvolver, testar e comparar um conjunto de estratégias técnicas de trading (ensemble) com o modelo tradicional de Buy and Hold. A proposta é avaliar o desempenho, risco e robustez de cada abordagem no contexto de mercado brasileiro, utilizando ferramentas de modelagem quantitativa e automação em MQL5.
 
-🎯 Objetivos
+### 🎯 Objetivos
 
 Desenvolver um ensemble de estratégias técnicas baseado em indicadores clássicos.
 
@@ -15,7 +15,7 @@ Comparar a performance acumulada frente ao modelo Buy and Hold.
 
 Analisar o impacto de controle de risco, como stop loss, trailing stop, filtro de spread e horário de fechamento.
 
-🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 MQL5 para desenvolvimento dos indicadores e experts advisors (EAs)
 
@@ -25,7 +25,7 @@ Plotly para visualização interativa
 
 Walk-Forward Analysis (WFA) como técnica de validação fora da amostra
 
-📈 Indicadores Técnicos Utilizados
+### 📈 Indicadores Técnicos Utilizados
 
 Bandas de Bollinger
 
@@ -49,7 +49,7 @@ Trailing Stop dinâmico
 
 Filtro de spread para evitar operações ineficientes
 
-📊 Resultados
+### 📊 Resultados
 
 O gráfico a seguir demonstra o resultado acumulado da estratégia comparada ao modelo Buy and Hold:
 
