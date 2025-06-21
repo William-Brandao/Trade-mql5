@@ -1,4 +1,4 @@
-Projeto: Comparativo de Estratégias Quantitativas vs Buy and Hold
+# Projeto: Comparativo de Estratégias Quantitativas vs Buy and Hold
 
 
 🧠 Visão Geral
